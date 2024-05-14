@@ -1,4 +1,7 @@
-Put the API key in environment.ts file
+Here I have created Movie app which show the popular list of movies with movie name,released_date, rating.
+And on click of movie from list, it redirects to movie detail page which shows movie poster with overview of movie, its release date and movie budget 
+Here I have used themoviedb APIs
+Note: Put the API key in environment.ts file
 
 Screenshot:
 ![ionicframework](https://github.com/Ankita012/IonicMovieApp/assets/22776061/51d34d32-3862-4892-904c-710eb91c6afb)
